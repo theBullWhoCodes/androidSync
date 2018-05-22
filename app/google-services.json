@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "517407295297",
+    "firebase_url": "https://forksnknives-8b395.firebaseio.com",
+    "project_id": "forksnknives-8b395",
+    "storage_bucket": "forksnknives-8b395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517407295297:android:32b6d00a74d77fe9",
+        "android_client_info": {
+          "package_name": "ga.xtingerstech.forksnknives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517407295297-3g9jr422p64ctna1nlerbllc0rbbsnv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ga.xtingerstech.forksnknives",
+            "certificate_hash": "294d9060cbac7fd8d964b1d2c32173faf294230c"
+          }
+        },
+        {
+          "client_id": "517407295297-m4o9ohpba3afisrb3n10dm6f97661r0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2ddMljEB5P7uIJjjpBXyVYNeTxHNd20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517407295297-m4o9ohpba3afisrb3n10dm6f97661r0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
